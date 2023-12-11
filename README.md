@@ -25,14 +25,6 @@ Below are listed the executable files and folders:
    
       A Matlab code showing the comparison of prediction result of CNN and SVM algorithm
    
-   e. CNN.mat
-   
-      A Matlab data showing the trained network of CNN
-   
-   f. SVM.mat
-   
-      A Matlab data showing the Trained SVM model object
-
 3. Data Set
    
    A folder showing the data set of each character which will be used by machine learning algorithm to trained the network model
