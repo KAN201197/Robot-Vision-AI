@@ -25,14 +25,10 @@ Below are listed the executable files and folders:
    
       A Matlab code showing the comparison of prediction result of CNN and SVM algorithm
    
-3. Data Set
-   
-   A folder showing the data set of each character which will be used by machine learning algorithm to trained the network model
-
-5. Segmentation Result
+2. Segmentation Result
    
    A folder showing the segmentation result after applying segmentation technique
 
-7. charact2
+3. charact2
    
    The original image showing the label of characters on a microchip
